@@ -27,10 +27,9 @@
       <th>
       <kbd>$\color{#95331f}{\textsf{ BYI }}$</kbd>
         <br>
-        　　
         $\color{#95331f}{\textsf{Huge resident evil and slasher nerd.}}$
         <br>
-        $\color{#95331f}{\textsf{Also a multishipper, love ranting about my ships.}}$
+        $\color{#95331f}{\textsf{multishipper, i love shipping.}}$
         <br>
         $\color{#95331f}{\textsf{I forget really easily.}}$
         <br>
