@@ -70,7 +70,7 @@
 </tr>
           
   <br>
-  
+   <p align="center"><img width="85" height="18" alt="r8wau6" src="https://github.com/user-attachments/assets/a19aa0d4-e6d3-4ce5-a650-d6b27c0828ce" /></p>
   ㅤㅤㅤㅤㅤ<table border="0"  align="center">
     <tr align="center"></tr>
       <th>
